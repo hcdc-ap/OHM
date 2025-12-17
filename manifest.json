@@ -1,0 +1,20 @@
+{
+  "name": "HCDC Occupational Hygiene Management System",
+  "short_name": "HCDC OHM",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/sv483dwH/employees.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/sv483dwH/employees.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
